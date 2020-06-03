@@ -1,4 +1,3 @@
-//配置别名
 module.exports = {
   configureWebpack: {
     resolve: {
@@ -12,3 +11,4 @@ module.exports = {
     }
   }
 }
+
